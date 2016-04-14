@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jusgraecoromanu00linggoog_0008.png"; bbox 0 0 2900 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 756 1241 1527 1337">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 756 1241 1527 1337">
+     <span class='ocr_line' id='line_1_1' title="bbox 756 1241 1527 1337; baseline 0.006 -26"><span class='ocrx_word' id='word_1_1' title='bbox 756 1247 952 1337; x_wconf 64' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_2' title='bbox 1032 1243 1159 1314; x_wconf 75' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1236 1243 1320 1314; x_wconf 63' lang='grc' dir='ltr'>τι</span> <span class='ocrx_word' id='word_1_4' title='bbox 1376 1241 1527 1316; x_wconf 75' lang='lat' dir='ltr'>ton</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
